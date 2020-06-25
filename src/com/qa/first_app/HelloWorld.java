@@ -1,4 +1,4 @@
-package com.qa.FirstApp;
+package com.qa.first_app;
 
 public class HelloWorld {
 	public static String returnString(String message) {
